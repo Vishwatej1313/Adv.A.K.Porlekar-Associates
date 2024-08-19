@@ -18,12 +18,12 @@
         </nav>
     </header>
     <section id="home">
-        <h1>Welcome to [Advocate Name] Legal Services</h1>
+        <h1>Welcome to [Adv.A.k.Porlekar & Associates] Legal Services</h1>
         <p>Your trusted partner in legal matters.</p>
     </section>
     <section id="about">
         <h2>About Me</h2>
-        <p>[Advocate Name] is a seasoned lawyer with [years of experience] years of experience in [specialization areas].</p>
+        <p>[Adv.Anandrao k. Porlekar] is a seasoned lawyer with [28] years of experience in [specialization areas].</p>
     </section>
     <section id="services">
         <h2>Services</h2>
@@ -46,12 +46,12 @@
             <textarea id="message" name="message" required></textarea>
             <button type="submit">Send Message</button>
         </form>
-        <p>Office Address: [Address]</p>
-        <p>Phone: [Phone Number]</p>
-        <p>Email: [Email Address]</p>
+        <p>Office Address: [At. Post:- Gargoti]</p>
+        <p>Phone: [9422425181]</p>
+        <p>Email: [porlekarak@gmail.com]</p>
     </section>
     <footer>
-        <p>&copy; [Year] [Advocate Name]. All rights reserved.</p>
+        <p>&copy; [2024] [Adv. A.K.Porlekar]. All rights reserved.</p>
     </footer>
 </body>
 </html>
