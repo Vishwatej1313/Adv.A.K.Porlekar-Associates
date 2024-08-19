@@ -23,7 +23,7 @@
     </section>
     <section id="about">
         <h2>About Me</h2>
-        <p>[Adv.Anandrao k. Porlekar] is a seasoned lawyer with [28] years of experience in [specialization areas].</p>
+        <p>[Adv.Anandrao k. Porlekar] is a seasoned lawyer with [28] years of experience in [Gargoti].</p>
     </section>
     <section id="services">
         <h2>Services</h2>
